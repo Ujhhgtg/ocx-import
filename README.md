@@ -1,6 +1,6 @@
 # ocx-import
 
-把 **ChatGPT Web Session JSON** 和 **sub2api OpenAI OAuth JSON** 直接导入 OpenCodex 账号池。纯 Python 标准库实现，无需 Node.js / Bun，也不依赖旧版 `opencodex-account-importer`。导入过程不发起网络请求。
+把 **ChatGPT Web Session JSON** 和 **sub2api OpenAI OAuth JSON** 直接导入 OpenCodex 账号池。导入过程不发起网络请求。
 
 ## 使用
 
